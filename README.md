@@ -18,3 +18,4 @@ The model gets loss a of 0.0497 and an accuracy of 98.55% while evaluating on th
 ## Reference:
 - Coursera <br>
 Course ID: https://coursera.org/verify/Y47Q79THGXNC
+- https://mxnet.apache.org/versions/1.4.1/tutorials/python/mnist.html
